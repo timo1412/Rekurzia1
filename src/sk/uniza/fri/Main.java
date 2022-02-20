@@ -41,6 +41,5 @@ public class Main {
         System.out.println();
         rekurzia.problemOfHanoiTowers(5 , 1 , 2 , 3);
 
-        System.out.println("Refresh na githube");
     }
 }
